@@ -1,2 +1,4 @@
 hi bro this is divya
-
+hi divya . 
+This is from another laptop we wil uderstand about diffrerece between local repo 
+and Remote repo ..........
